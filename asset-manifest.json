@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/game-store-react/static/css/main.230fdb95.css",
+    "main.js": "/game-store-react/static/js/main.37eabc45.js",
+    "static/js/453.afcb7c3a.chunk.js": "/game-store-react/static/js/453.afcb7c3a.chunk.js",
+    "static/media/profexxor404.jpg": "/game-store-react/static/media/profexxor404.def398381a4af9a5b645.jpg",
+    "static/media/bootstrap-icons.woff?": "/game-store-react/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/game-store-react/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/game-store-react/index.html",
+    "main.230fdb95.css.map": "/game-store-react/static/css/main.230fdb95.css.map",
+    "main.37eabc45.js.map": "/game-store-react/static/js/main.37eabc45.js.map",
+    "453.afcb7c3a.chunk.js.map": "/game-store-react/static/js/453.afcb7c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230fdb95.css",
+    "static/js/main.37eabc45.js"
+  ]
+}
